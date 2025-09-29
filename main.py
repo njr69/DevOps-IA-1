@@ -3,7 +3,7 @@
 from test import to_upper, to_lower
 
 if __name__ == "__main__":
-    text = "sample value"
+    text = "This is just a test"
 
     print("Uppercase:", to_upper(text))
     print("Lowercase:", to_lower(text))
